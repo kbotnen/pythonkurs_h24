@@ -53,12 +53,26 @@ print(type(dataset))
 # In[ ]:
 
 
+# We need to create a new label:number of occurences DataFrame.
+import pandas as pd
+
+df = pd.DataFrame({'labels': ['1', '2', '3', '4', '5', '6'],
+                    'occurences': [dataset.count(1), dataset.count(2), dataset.count(3), dataset.count(4), dataset.count(5), dataset.count(6)] 
+                    })
+
+print(df)
+
+
+# In[ ]:
+
+
 import plotly.express as px
 
 # https://plotly.com/python-api-reference/generated/plotly.express.pie.html
 fig = px.pie(
-    names=[1, 2, 3, 4, 5, 6], # Values from this column or array_like are used as labels for sectors.
-    data_frame=dataset        # Array-like and dict are transformed internally to a pandas DataFrame.
+    df,
+    values='occurences', # Values from this column or array_like are used as labels for sectors.
+    names='labels'        # Array-like and dict are transformed internally to a pandas DataFrame.
 )
 fig.show()
 
@@ -75,10 +89,4 @@ fig = px.bar(
     labels={"x":"Result", "y":"Frequency"} # Values should correspond to the desired label to be displayed.
 )
 fig.show()
-
-
-# In[ ]:
-
-
-
 
