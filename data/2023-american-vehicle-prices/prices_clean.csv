@@ -1,0 +1,1171 @@
+year,make,model,price
+2023,Honda,Elevate,14530.0
+2023,Honda,e,37140.0
+2023,Honda,e Advance,37140.0
+2023,Honda,Pilot Elite AWD,52030.0
+2023,Honda,Pilot EX-L 8-Passenger AWD,42310.0
+2023,Honda,Pilot EX-L 8-Passenger 2WD,41950.0
+2023,Honda,Pilot Sport 4WD,40080.0
+2023,Honda,City ZX CVT,19350.0
+2023,Honda,City V CVT,16510.0
+2023,Honda,New City ZX Petrol MT,17880.0
+2023,Honda,New City VX Petrol MT,16400.0
+2023,Honda,City Hybrid eHEV ZX,24770.0
+2023,Honda,City Hybrid eHEV V,22970.0
+2023,Honda,New City V Petrol MT,15030.0
+2023,Honda,New City SV Petrol MT,14010.0
+2023,Honda,City Hybrid ZX CVT,28520.0
+2023,Honda,City Hybrid V CVT,26450.0
+2023,Honda,City V,17500.0
+2023,Honda,City SV,16260.0
+2023,Honda,City Hybrid,26640.0
+2023,Honda,HR-V VTi-S,28230.0
+2023,Honda,HR-V VTi,27470.0
+2023,Honda,Accord EX,29610.0
+2023,Honda,Civic Type R Touring Manual,43290.0
+2023,Honda,Passport EX-L,41100.0
+2023,Honda,Pilot EX-L AWD,42310.0
+2023,Honda,CR-V EX-L AWD,35260.0
+2023,Honda,CR-V EX AWD,32610.0
+2023,Honda,CR-V Hybrid Sport AWD,33950.0
+2023,Honda,Civic Type R Touring,42890.0
+2023,Honda,Civic Sport Sedan,24650.0
+2023,Honda,Accord Hybrid Sport-L,33870.0
+2023,Honda,Accord Sedan,28000.0
+2023,Honda,ZR-V,25000.0
+2023,BMW,i3s 120 Ah,45550.0
+2023,BMW,iX3,70930.0
+2023,BMW,i4 xDrive40,62600.0
+2023,BMW,i7 eDrive50,106700.0
+2023,BMW,iX1 xDrive30,60490.0
+2023,BMW,i7 M70 xDrive,350000.0
+2023,BMW,M2 Brooklyn Grau,63500.0
+2023,BMW,M2 Zandvoort Blau,63000.0
+2023,BMW,X1 sDrive18d M Sport,69420.0
+2023,BMW,X1 sDrive18i xLine,64550.0
+2023,BMW,X7 xDrive40d M Sport,179890.0
+2023,BMW,X7 xDrive40i M Sport,171330.0
+2023,BMW,Alpina B5 GT Sedan,156890.0
+2023,BMW,Alpina B5 GT Wagon,161100.0
+2023,BMW,M4 Competition Coupe,78600.0
+2023,BMW,i4 eDrive35,51400.0
+2023,BMW,3.0 CSL Coupe,750000.0
+2023,BMW,5 Series Hybrid,56400.0
+2023,BMW,4 Series M440i Gran Coupe,57450.0
+2023,BMW,M8 Coupe Competition,308090.0
+2023,BMW,M6,105990.0
+2023,BMW,530i xDrive,57100.0
+2023,BMW,530e Plug-In Hybrid,56400.0
+2023,Lexus,LC 500 Edge Limited Edition,126290.0
+2023,Lexus,RZ 450e Luxury,64000.0
+2023,Lexus,RZ 450e Premium,58500.0
+2023,Lexus,LX Ultra Luxury,126000.0
+2023,Lexus,LC 500 Coupe,94000.0
+2023,Lexus,IS 350 F SPORT Design AWD,44510.0
+2023,Lexus,IS 300 AWD,41435.0
+2023,Lexus,ES 350 F SPORT Handling,47800.0
+2023,Lexus,NX 350h Luxury,49000.0
+2023,Lexus,ES 300h F SPORT Design,46920.0
+2023,Lexus,ES 250 F SPORT Design,45920.0
+2023,Lexus,NX 250 Premium,41650.0
+2023,Lexus,NX 350 F SPORT Handling,47050.0
+2023,Lexus,UX 300e 73kWh,35920.0
+2023,Lexus,UX 250h F SPORT HANDLING,42200.0
+2023,Lexus,UX 250h Premium AWD,38630.0
+2023,Lexus,UX 250h Premium,37230.0
+2023,Lexus,UX 250h F SPORT DESIGN,37230.0
+2023,Lexus,UX 250h AWD,36170.0
+2023,Lexus,BX,57575.0
+2023,Lexus,RX Hybrid 500h F Sport Performance,61600.0
+2023,Lexus,NX 450h+ Plug-in Hybrid F SPORT,58400.0
+2023,Lexus,RX Hybrid 350h,49000.0
+2023,Lexus,IS 350 F Sport RWD,45760.0
+2023,Lexus,UX Hybrid,34770.0
+2023,Lexus,UX,43605.0
+2023,Hyundai,Ioniq 5 LR AWD 77kWh,64960.0
+2023,Hyundai,Ioniq 5 LR RWD 77kWh,56610.0
+2023,Hyundai,Ioniq 6 LR AWD,49000.0
+2023,Hyundai,Ioniq 6 LR RWD,45500.0
+2023,Hyundai,Ioniq 6 SR RWD,41600.0
+2023,Hyundai,Exter SUV,7300.0
+2023,Hyundai,Exter,7300.0
+2023,Hyundai,Mufasa,20000.0
+2023,Hyundai,Verna SX (O) 1.5 VTVT IVT,19730.0
+2023,Hyundai,Verna SX (O)1.5 VTVT,17870.0
+2023,Hyundai,Verna SX 1.5 CRDi,15530.0
+2023,Hyundai,loniq 6 Limited AWD,56100.0
+2023,Hyundai,Ioniq 6 Limited,52600.0
+2023,Hyundai,Ioniq 6 SEL AWD,51200.0
+2023,Hyundai,Ioniq 6 SEL,47700.0
+2023,Hyundai,Ioniq 6 SE AWD,49000.0
+2023,Hyundai,Ioniq 6 SE,45500.0
+2023,Hyundai,Ioniq 6 SE Standard Range,41600.0
+2023,Hyundai,Verna SX 1.5 CRDi AT,16980.0
+2023,Hyundai,Verna SX 1.5 VTVT IVT,17270.0
+2023,Hyundai,Sonata 2.5,37120.0
+2023,Hyundai,Sonata 2.0,34120.0
+2023,Hyundai,Venue N Line N8 DCT,16450.0
+2023,Hyundai,Verna SX 1.5 VTVT,13860.0
+2023,Hyundai,Verna S Plus 1.5 CRDi,13630.0
+2023,Hyundai,Venue N Line N8 DCT Dual Tone,16610.0
+2023,Hyundai,Verna S Plus 1.5 VTVT,12160.0
+2023,Hyundai,Verna E 1.5 VTVT,11700.0
+2023,Hyundai,Venue N Line N6 DCT Dual Tone,15460.0
+2023,Hyundai,Venue N Line N6 DCT,15280.0
+2023,Hyundai,Venue N-Line,15190.0
+2023,Hyundai,Grand i10 Nios Era,8150.0
+2023,Hyundai,Aura E,9240.0
+2023,Hyundai,Stargazer,12230.0
+2023,Hyundai,Venue N Line,15190.0
+2023,Hyundai,Elantra Manual,32900.0
+2023,Hyundai,Elantra N Coupe,32920.0
+2023,Hyundai,Grandeur Calligraphy Black Ink,30600.0
+2023,Hyundai,Kona SE AWD,23640.0
+2023,Hyundai,Kona N Line AWD,29350.0
+2023,Hyundai,Palisade SE AWD,37150.0
+2023,Hyundai,Palisade Limited AWD,48700.0
+2023,Hyundai,Palisade Limited AWD,48700.0
+2023,Hyundai,Kona N Line,27700.0
+2023,Hyundai,Ioniq 5 Limited,52600.0
+2023,Hyundai,Ioniq 5 SEL,46250.0
+2023,Toyota,Tundra 1794 Edition Hybrid,68200.0
+2023,Toyota,Urban Cruiser Hyryder,13080.0
+2023,Toyota,Bz4x AWD,48800.0
+2023,Toyota,Bz4x FWD,46700.0
+2023,Toyota,bZ3 65kWh,24500.0
+2023,Toyota,bZ3 50kWh,27500.0
+2023,Toyota,Innova Crysta VX 2.4 8 STR,29150.0
+2023,Toyota,Innova Crysta GX 7 STR,24450.0
+2023,Toyota,Supra Plasma Orange 100 Edition,55750.0
+2023,Toyota,Innova Crysta G-SLF 8 STR,23510.0
+2023,Toyota,Innova Crysta G-SLF 7 STR,23450.0
+2023,Toyota,Innova Hycross ZX (O) Hybrid 7 STR,36310.0
+2023,Toyota,Innova Hycross ZX Hybrid 7 STR,35530.0
+2023,Toyota,Innova Hycross VX (O) Hybrid 8 STR,32490.0
+2023,Toyota,Innova Hycross VX (O) Hybrid 7 STR,32420.0
+2023,Toyota,Prius Limited AWD-e,34460.0
+2023,Toyota,Innova Hycross VX Hybrid 8 STR,30010.0
+2023,Toyota,Innova Hycross VX Hybrid 7 STR,29950.0
+2023,Toyota,Innova Hycross GX 8 STR,23540.0
+2023,Toyota,Innova Hycross GX 7 STR,23470.0
+2023,Toyota,Innova Hycross G-SLF 8 STR,22590.0
+2023,Toyota,Innova Hycross G-SLF 7 STR,22540.0
+2023,Toyota,Aygo X Undercover,17000.0
+2023,Toyota,Land Cruiser ZX Gasoline 3.5L,536530.0
+2023,Toyota,Corolla,26700.0
+2023,Toyota,Prius Prime XSE Premium,35600.0
+2023,Toyota,Prius Prime XSE,35600.0
+2023,Toyota,Prius Prime SE,32350.0
+2023,Toyota,RAV4 Prime SE Plug-in Hybrid,42340.0
+2023,Toyota,Sequoia Limited 4WD,67700.0
+2023,Toyota,Century SUV,170000.0
+2023,Toyota,RAV4 Hybrid,30720.0
+2023,Toyota,Highlander Hybrid Platinum AWD,52620.0
+2023,Toyota,Highlander Platinum AWD,51220.0
+2023,Toyota,Highlander Limited AWD,48020.0
+2023,Toyota,Camry SE AWD,29160.0
+2023,Toyota,Sienna XSE AWD,44450.0
+2023,Toyota,Yaris MT 1.3,16000.0
+2023,Toyota,Yaris MT 1.5,18000.0
+2023,Toyota,RAV4 Hybrid XSE,35885.0
+2023,KIA,EV6 Limited Edition,63000.0
+2023,KIA,EV6 SR RWD,42700.0
+2023,KIA,Forte LX IVT,19690.0
+2023,KIA,Forte GT-Line IVT,21690.0
+2023,KIA,Forte LXS IVT,19990.0
+2023,KIA,Stonic Quantum Special Edition,26400.0
+2023,KIA,K5 GT-Line AWD,28190.0
+2023,KIA,Telluride SX-P X-Pro,52780.0
+2023,KIA,Telluride SX-P X-Line,51785.0
+2023,KIA,Telluride SX X-Pro,49885.0
+2023,KIA,Telluride SX X-Line,48885.0
+2023,KIA,Niro SX Touring,34790.0
+2023,KIA,Niro SX,32490.0
+2023,KIA,Niro EX Touring,31390.0
+2023,KIA,Telluride S AWD,39590.0
+2023,KIA,Telluride LX AWD,37690.0
+2023,KIA,Sorento Hybrid EX AWD,38890.0
+2023,KIA,Sorento LX AWD,31790.0
+2023,KIA,Niro EV SX,44450.0
+2023,KIA,EV6 GT-Line,52700.0
+2023,KIA,EV6 Wind AWD,52400.0
+2023,KIA,EV6 Wind,48500.0
+2023,KIA,Picanto,14000.0
+2023,KIA,Cerato,18380.0
+2023,KIA,Sorento Plug-in Hybrid SX Prestige,49890.0
+2023,KIA,Rio5 S,17490.0
+2023,KIA,Carens Premium Turbo,15050.0
+2023,KIA,Carnival LX Seat Package,34900.0
+2023,Nissan,e-NV200,31500.0
+2023,Nissan,Ariya Evolve Plus e-4ORCE,63530.0
+2023,Nissan,Ariya Engage 2WD 87kWh,43190.0
+2023,Nissan,Ariya Engage 2WD 63kWh,43190.0
+2023,Nissan,Ariya ENGAGE Plus,51190.0
+2023,Nissan,Ariya PREMIERE,54690.0
+2023,Nissan,Ariya PLATINUM Plus,60190.0
+2023,Nissan,Ariya EVOLVE e-4ORCE AWD,54190.0
+2023,Nissan,Ariya ENGAGE e-4ORCE AWD,47190.0
+2023,Nissan,Ariya e-4ORCE,55870.0
+2023,Nissan,Ariya EMPOWER Plus,53690.0
+2023,Nissan,Ariya EVOLVE Plus,50190.0
+2023,Nissan,Ariya VENTURE Plus,47190.0
+2023,Nissan,Ariya ENGAGE,43190.0
+2023,Nissan,Altima 2.5 SL AWD,33490.0
+2023,Nissan,Altima 2.5 SR AWD,28990.0
+2023,Nissan,Altima 2.5 SR,27490.0
+2023,Nissan,Altima 2.5 SV,26090.0
+2023,Nissan,Rogue Platinum AWD,38640.0
+2023,Nissan,Pathfinder Rock Creek,43020.0
+2023,Nissan,Murano Platinum AWD,45210.0
+2023,Nissan,Murano S AWD,35360.0
+2023,Nissan,Murano AWD SV,38900.0
+2023,Nissan,Murano SV AWD,38900.0
+2023,Nissan,Murano SL AWD,42860.0
+2023,Nissan,Sentra SR,22700.0
+2023,Nissan,Armada SL,57760.0
+2023,Nissan,Altima 2.5 SL,31990.0
+2023,Nissan,Rogue SL AWD,35210.0
+2023,Nissan,Formula E,57800.0
+2023,Nissan,Z Performance Auto,49990.0
+2023,Nissan,Armada S 4WD,52900.0
+2023,Nissan,Altima 2.5 SV AWD,27590.0
+2023,Nissan,Pathfinder Platinum 4WD,49870.0
+2023,Nissan,Versa S CVT,18250.0
+2023,Nissan,Z Sport Auto,39990.0
+2023,Nissan,Z,39990.0
+2023,Nissan,Armada SV 4WD,56900.0
+2023,Nissan,Z GT4,229000.0
+2023,Nissan,GT-R Premium,113540.0
+2023,Nissan,GT-R,113540.0
+2023,Nissan,Urvan,25600.0
+2023,Nissan,350Z,37890.0
+2023,Nissan,Juke,17700.0
+2023,Audi,A3 Sedan Premium 40 TFSI quattro,37400.0
+2023,Audi,Q5 Premium Plus 40 TFSI quattro,44200.0
+2023,Audi,Q5 Prestige 40 TFSI quattro,44200.0
+2023,Audi,SQ7 4.0T Premium Plus quattro,90200.0
+2023,Audi,A3 Sedan Premium Plus 40 TFSI quattro,37400.0
+2023,Audi,RS4 Avant competition,87320.0
+2023,Audi,SQ8 e-tron quattro,97000.0
+2023,Audi,Q8 55 e-tron quattro,75000.0
+2023,Audi,Q8 Sportback 50 e-tron Quattro,69000.0
+2023,Audi,Q8 Sportback 55 e-tron Quattro,77800.0
+2023,Audi,SQ8 Sportback e-tron quattro,100800.0
+2023,Audi,RS E-Tron GT Special Edition,179900.0
+2023,Audi,Q3 Sportback,62020.0
+2023,Audi,Q5,43500.0
+2023,Audi,R8 Coupe,222000.0
+2023,Audi,A4 Avant,45900.0
+2023,Audi,SQ5 3.0T Premium Quattro,55600.0
+2023,Audi,Q4 Sportback e-tron,58200.0
+2023,Audi,Q4 50 e-tron Premium,55200.0
+2023,Audi,Q4 50 e-tron Prestige,90800.0
+2023,Audi,S6 2.9T Premium quattro,73700.0
+2023,Audi,Q4 40 e-tron Premium Plus,90800.0
+2023,Audi,RS7 Sportback,120900.0
+2023,Audi,RS6 Avant Performance,118900.0
+2023,Audi,RS3,58900.0
+2023,Audi,R8 V10 GT RWD,225000.0
+2023,Audi,A6 Premium Plus 45 TFSI quattro,55900.0
+2023,Chevrolet,Camaro LT1 Convertible,42400.0
+2023,Chevrolet,Camaro 1SS Convertible,45900.0
+2023,Chevrolet,Camaro 2SS Convertible,50900.0
+2023,Chevrolet,Corvette Stingray Limited Edition,90800.0
+2023,Chevrolet,Bolt EV 65kWh,32500.0
+2023,Chevrolet,Silverado EV RST,105000.0
+2023,Chevrolet,Bolt EV 66kWh,37500.0
+2023,Chevrolet,Silverado EV WT,40000.0
+2023,Chevrolet,Colorado ZR2 Bison,43900.0
+2023,Chevrolet,Corvette Z06 2LZ Coupe,114500.0
+2023,Chevrolet,Corvette Z06 1LZ Coupe,105300.0
+2023,Chevrolet,Camaro 2SS Coupe,44900.0
+2023,Chevrolet,Camaro 1SS Coupe,39900.0
+2023,Chevrolet,Camaro LT1 Coupe,36400.0
+2023,Chevrolet,Camaro 3LT Coupe,32900.0
+2023,Chevrolet,Camaro 2LT Coupe,28900.0
+2023,Chevrolet,Camaro 1LT Coupe,26900.0
+2023,Chevrolet,Blazer 2LT AWD,36100.0
+2023,Chevrolet,Montana,25000.0
+2023,Chevrolet,Onix,17195.0
+2023,Ford,GT 68 Heritage Edition,1100000.0
+2023,Ford,F-150 Shelby Centennial Edition,138500.0
+2023,Ford,E-Tourneo Courier,39990.0
+2023,Ford,F-150 Lightning LR AWD,81000.0
+2023,Ford,Mustang Mach-E SR AWD,49000.0
+2023,Ford,Mustang Mach-E SR,46000.0
+2023,Ford,F-150 Lightning SR AWD,56000.0
+2023,Ford,Shelby Mustang Mach-E GT,65400.0
+2023,Ford,Transit Trail Camper Van 250,65970.0
+2023,Ford,Ranger Wildtrak X,51000.0
+2023,Ford,Transit Passenger Van,50130.0
+2023,Ford,Bronco Sport,29210.0
+2023,Ford,Mustang EcoBoost Premium Convertible,38290.0
+2023,Ford,Ranger LARIAT,35500.0
+2023,Ford,Mustang GT Premium,43360.0
+2023,Ford,Mustang GT,38340.0
+2023,Ford,Mustang EcoBoost Premium,32790.0
+2023,Ford,Mustang Mach-E California Route 1,63570.0
+2023,Ford,Mustang Mach-E Premium,54970.0
+2023,Ford,F-450 Super Duty Limited,97810.0
+2023,Ford,F-450 Super Duty Platinum,89455.0
+2023,Ford,F-450 Super Duty King Ranch,85585.0
+2023,Ford,F-450 Super Duty Lariat,73910.0
+2023,Ford,F-450 Super Duty XLT,62645.0
+2023,Ford,F-450 Super Duty XL,56625.0
+2023,Ford,F-250 Super Duty Platinum,76865.0
+2023,Ford,E-Transit Cargo Van 350,53790.0
+2023,Ford,E-Transit Cargo Van 350 Chassis,50100.0
+2023,Ford,Mustang,27770.0
+2023,Ford,F-250 Super Duty King Ranch,75975.0
+2023,Ford,F-250 Super Duty Lariat,61410.0
+2023,Ford,Explorer Hybrid Limited,54060.0
+2023,Ford,Expedition XL STX,54155.0
+2023,Ford,Expedition Max XL 4x4,60200.0
+2023,Ford,Escape Plug-In Hybrid,38500.0
+2023,Ford,Bronco Sport Heritage Limited Edition,44655.0
+2023,Ford,Bronco Sport Badlands,37340.0
+2023,Ford,Bronco Sport Outer Banks,35615.0
+2023,Ford,Bronco Sport Heritage Edition,32650.0
+2023,Ford,Bronco Sport Big Bend,30930.0
+2023,Ford,Bronco Sport Base,29215.0
+2023,Ford,Bronco Heritage Limited Edition 4-Door,69185.0
+2023,Ford,Bronco Heritage Limited Edition 2-Door,66895.0
+2023,Mercedes,AMG G63 Grand Edition,249600.0
+2023,Mercedes,EQA 300 4MATIC,57400.0
+2023,Mercedes,EQS 350,102310.0
+2023,Mercedes,EQA 350 4MATIC,60280.0
+2023,Mercedes,EQV 250 Long,72720.0
+2023,Mercedes,EQV 250 Extra Long,73680.0
+2023,Mercedes,EQV 300 Long,76560.0
+2023,Mercedes,EQV 300 Extra Long,77520.0
+2023,Mercedes,AMG SL 43 Roadster,110000.0
+2023,Mercedes,AMG SL43,110000.0
+2023,Mercedes,EQS SUV 450 4MATIC,114470.0
+2023,Mercedes,EQS 450 4MATIC,113050.0
+2023,Mercedes,AMG CLS 53,87550.0
+2023,Mercedes,EQT,50000.0
+2023,Mercedes,Benz GLA-Class SUV,37500.0
+2023,Mercedes,Benz GLB Class,39800.0
+2023,Mercedes,AMG GT63 S E Performance,209600.0
+2023,Mercedes,Benz EQA SUV,55300.0
+2023,Mercedes,Benz S Class,243720.0
+2023,Mercedes,AMG GLC 63 S 4MATIC Coupe,85600.0
+2023,Mercedes,AMG C63 Coupe,81850.0
+2023,Mercedes,Benz C Class Convertible,57250.0
+2023,Mercedes,Benz C Class Coupe,49550.0
+2023,Mercedes,AMG GT 53,106700.0
+2023,Mercedes,Maybach GLS,170000.0
+2023,Mercedes,AMG GT 53 4MATIC Plus,106800.0
+2023,Mercedes,AMG GT,294070.0
+2023,Porsche,718 Boxster GTS 4.0,92400.0
+2023,Porsche,911 Dakar Dakar,222000.0
+2023,Porsche,911 Turbo S by Mansory,232000.0
+2023,Porsche,Taycan Art Car,200000.0
+2023,Porsche,Panamera E-Hybrid Sport Turismo,113000.0
+2023,Porsche,Panamera Sport Turismo,103200.0
+2023,Porsche,Panamera Turbo,186400.0
+2023,Porsche,Taycan Cross Turismo,97700.0
+2023,Porsche,Cayenne Platinum Edition E-Hybrid,95500.0
+2023,Porsche,Cayenne S Platinum Edition Coupe,97300.0
+2023,Porsche,Cayenne S Coupe,95200.0
+2023,Porsche,Cayenne S Platinum Edition,95100.0
+2023,Porsche,Cayenne Platinum Edition,84800.0
+2023,Porsche,Macan GTS,82900.0
+2023,Porsche,Panamera 4S E-Hybrid Executive,130500.0
+2023,Porsche,Panamera 4 E-Hybrid Platinum Edition,118800.0
+2023,Porsche,Panamera 4 Platinum Edition,109300.0
+2023,Porsche,Panamera Platinum Edition,105100.0
+2023,Porsche,911 Turbo Cabriolet,195700.0
+2023,Porsche,911 Targa Edition 50 Years Porsche Design,186200.0
+2023,Porsche,911 Carrera GTS Cabriolet America,184920.0
+2023,Porsche,911 Carrera 4 GTS Cabriolet,162700.0
+2023,Porsche,718 Cayman S,75400.0
+2023,Porsche,718 Cayman GTS 4.0,90300.0
+2023,Porsche,718 Cayman T,72500.0
+2023,Porsche,Panamera Hybrid,109000.0
+2023,Porsche,Taycan Sport Turismo,136000.0
+2023,Porsche,911 GT3 Touring Package,169700.0
+2023,Porsche,911 GT3 Touring,170000.0
+2023,Porsche,Macan,57500.0
+2023,Porsche,Panamera 4,97000.0
+2023,Porsche,Panamera,88400.0
+2023,Porsche,911 Turbo S Cabriolet,228900.0
+2023,Infiniti,QX50,40300.0
+2023,Infiniti,QX80 Sensory AWD,87450.0
+2023,Infiniti,QX80 Premium Select AWD,80400.0
+2023,Infiniti,QX80 Luxe AWD,75800.0
+2023,Infiniti,QX65,49200.0
+2023,Infiniti,Q50 Red Sport 400 AWD,58500.0
+2023,Infiniti,Q50 3.0t Luxe AWD,44650.0
+2023,Infiniti,QX50 SPORT,48500.0
+2023,Infiniti,Q50 3.0t SENSORY,48350.0
+2023,Infiniti,QX80,72700.0
+2023,Infiniti,QX60 SENSORY,58600.0
+2023,Infiniti,QX55 Sensory AWD,58050.0
+2023,Infiniti,Q60 Red Sport 400 AWD,61200.0
+2023,Infiniti,QX55,49150.0
+2023,Infiniti,Q50 3.0t Sensory AWD,50350.0
+2023,Infiniti,QX60 AUTOGRAPH FWD,63600.0
+2023,Infiniti,QX50 SENSORY AWD,54500.0
+2023,Infiniti,QX50 AUTOGRAPH,57950.0
+2023,Infiniti,QX50 SENSORY,52800.0
+2023,Infiniti,QX50 Pure AWD,42300.0
+2023,Infiniti,Q60 3.0t Pure AWD,45750.0
+2023,Infiniti,QX50 ESSENTIAL,48800.0
+2023,Infiniti,QX50 Luxe,43600.0
+2023,Infiniti,QX50 Luxe AWD,45350.0
+2023,Infiniti,QX50 Pure,40300.0
+2023,Infiniti,Q60 Red Sport 400,59200.0
+2023,Infiniti,QX80 Sensory,84350.0
+2023,Infiniti,QX80 Premium Select,75900.0
+2023,Infiniti,QX80 Luxe,72700.0
+2023,Infiniti,Q60 3.0t Luxe,52300.0
+2023,Infiniti,QX55 Sensory,57800.0
+2023,Infiniti,Q60,43250.0
+2023,Infiniti,Q60 3.0t Pure,42750.0
+2023,Infiniti,Q50,42650.0
+2023,Infiniti,QX60 Pure,49200.0
+2023,Infiniti,Q50 Red Sport 400,56500.0
+2023,Infiniti,Q50 3.0t Sensory,48350.0
+2023,Jaguar,I-Pace 90kWh,71300.0
+2023,Jaguar,I Pace EV400,69900.0
+2023,Jaguar,I Pace EV320,79090.0
+2023,Jaguar,F-Pace SVR Edition 1988,110000.0
+2023,Jaguar,F-Type Coupe,73400.0
+2023,Jaguar,F-Pace,52400.0
+2023,Jaguar,E-Pace,48000.0
+2023,Jaguar,F-Type 75 Special Edition,86000.0
+2023,Jaguar,F-Type Convertible,76700.0
+2023,Jaguar,F-Type P450 Convertible,75000.0
+2023,Jaguar,I-Pace,71300.0
+2023,Jaguar,XF Sedan,47000.0
+2023,Jaguar,I-Pace HSE,71300.0
+2023,Jaguar,I Pace,87230.0
+2023,Jaguar,F Type P450 R Dynamic Coupe,73050.0
+2023,Jaguar,F Type P450 R Dynamic,87200.0
+2023,Jaguar,F Type P450,76700.0
+2023,Jaguar,F-Type P450 R-Dynamic Coupe,83900.0
+2023,Jaguar,I-Pace EV400,71000.0
+2023,Jaguar,F-Type P450 R-Dynamic Convertible,85000.0
+2023,Jaguar,F-Type P380 Coupe,81900.0
+2023,Jaguar,F-Type P300 Coupe,63900.0
+2023,Jaguar,F Pace SVR,89500.0
+2023,Jaguar,F Pace P250 S,56000.0
+2023,Jaguar,F Type P450 Coupe,76700.0
+2023,Jaguar,F-Pace SVR,89500.0
+2023,Jaguar,F-Type R Convertible,111200.0
+2023,Jaguar,F-Pace P400 R-Dynamic S,64800.0
+2023,Jaguar,F-Pace P340 S,60600.0
+2023,Jaguar,F-Type P450 Coupe,73400.0
+2023,Jaguar,F-Pace P250 S,56000.0
+2023,Jaguar,F-Pace P250,52400.0
+2023,Cadillac,CT4 Blackwing,60990.0
+2023,Cadillac,Lyriq Tech,57190.0
+2023,Cadillac,CT4 Premium,39590.0
+2023,Cadillac,CT5-V Base,50995.0
+2023,Cadillac,XT5,44190.0
+2023,Cadillac,XT4,36295.0
+2023,Cadillac,Escalade ESV,82295.0
+2023,Cadillac,Escalade,79290.0
+2023,Cadillac,CT5,38195.0
+2023,Cadillac,CT4,34390.0
+2023,Cadillac,Lyriq RWD,63000.0
+2023,Cadillac,CT5 Blackwing,85990.0
+2023,Cadillac,XT6,49000.0
+2023,Cadillac,XT5 Luxury,44190.0
+2023,Cadillac,Escalade ESV Premium Luxury,91090.0
+2023,Cadillac,Escalade Premium Luxury Platinum,105595.0
+2023,Cadillac,CT5-V Blackwing,91995.0
+2023,Cadillac,CT5-V,50990.0
+2023,Cadillac,CT4-V Blackwing,60495.0
+2023,Cadillac,CT4-V,46590.0
+2023,Cadillac,Escalade Esv Sport Platinum 4wd,115590.0
+2023,Cadillac,Lyriq,57190.0
+2023,Cadillac,Lyriq Luxury AWD,63790.0
+2023,Cadillac,Escalade-V ESV,152195.0
+2023,Cadillac,XT6 Premium,53990.0
+2023,Cadillac,Escalade Sport Platinum 4WD,114590.0
+2023,Cadillac,Escalade Premium Luxury 4WD,89890.0
+2023,Land Rover,Defender 130,90980.0
+2023,Land Rover,ge Rover Sport Deer Valley Edition,165000.0
+2023,Land Rover,New Range Rover,104500.0
+2023,Land Rover,ge Rover SV Lansdowne Edition,301000.0
+2023,Land Rover,ge Rover Velar P400 HST,79200.0
+2023,Land Rover,ge Rover P565 SVAutobiography LWB,215200.0
+2023,Land Rover,ge Rover P565 SVAutobiography Dynamic,186700.0
+2023,Land Rover,ge Rover P525 Autobiography LWB,154000.0
+2023,Land Rover,ge Rover P525 Westminster LWB,119900.0
+2023,Land Rover,ge Rover Hybrid P440e SE PHEV,108400.0
+2023,Land Rover,ge Rover P530 SV,193100.0
+2023,Land Rover,Discovery Sport P250 R-Dynamic SE,48500.0
+2023,Land Rover,Defender 110 Carpathian Edition,118400.0
+2023,Land Rover,Defender 130 X,99900.0
+2023,Land Rover,Defender First Edition,84700.0
+2023,Land Rover,Defender 130 X-Dynamic SE,81400.0
+2023,Land Rover,Defender 130 S,68000.0
+2023,Land Rover,ge Rover Velar,60300.0
+2023,Land Rover,ge Rover Evoque,45000.0
+2023,Land Rover,Discovery Sport,43300.0
+2023,Land Rover,Discovery,58400.0
+2023,Land Rover,Discovery Sport P250 R-Dynamic S,45100.0
+2023,Land Rover,ge Rover Velar P340 R-Dynamic S,69200.0
+2023,Land Rover,ge Rover 3.0 I Diesel Lwb Se,369940.0
+2023,Land Rover,ge Rover SV Carmel Edition,345000.0
+2023,Land Rover,ge Rover 3.0 l Petrol LWB SE,397180.0
+2023,Land Rover,ge Rover 4.4 I Petrol SE,373070.0
+2023,Land Rover,ge Rover 3.0 l Petrol HSE,408680.0
+2023,Jeep,Wrangler Willys 4xe plug-in hybrid,54730.0
+2023,Jeep,Wagoneer,58990.0
+2023,Jeep,Grand Wagoneer L,91490.0
+2023,Jeep,Grand Cherokee L,43030.0
+2023,Jeep,Grand Cherokee 4xe,59860.0
+2023,Jeep,Cherokee,37690.0
+2023,Jeep,Wrangler Rubicon 20th Anniversary Edition,69590.0
+2023,Jeep,Wrangler Rubicon Edition,69590.0
+2023,Jeep,Wrangler Unlimited Rubicon Farout,47490.0
+2023,Jeep,Wrangler Unlimited Freedom,35190.0
+2023,Jeep,Wrangler Base,54730.0
+2023,Jeep,Wagoneer Base,58990.0
+2023,Jeep,Compass Sport,29990.0
+2023,Jeep,Cherokee Altitude Lux,37695.0
+2023,Jeep,Grand Cherokee,41030.0
+2023,Jeep,Wrangler High Tide Edition,53400.0
+2023,Jeep,Compass,35495.0
+2023,Jeep,Grand Wagoneer Series III,71220.0
+2023,Jeep,Grand Wagoneer Series II Obsidian,95090.0
+2023,Jeep,Wrangler Unlimited Willys,35190.0
+2023,Jeep,Gladiator Rubicon,50990.0
+2023,Jeep,Grand Wagoneer L Series II Obsidian,98090.0
+2023,Jeep,Wagoneer L,62490.0
+2023,Jeep,Wagoneer L Series II Carbide 4x4,71080.0
+2023,Jeep,Wagoneer L Series II Carbide,68080.0
+2023,Jeep,Wrangler Unlimited High Altitude,45620.0
+2023,Jeep,Avenger,33000.0
+2023,Jeep,Grand Cherokee L Altitude 4x4,44320.0
+2023,Jeep,Gladiator Freedom,38770.0
+2023,Jeep,Gladiator,38770.0
+2023,Jeep,Wrangler,31190.0
+2023,Jeep,Wrangler Unlimited High Altitude 4xe plug-in hybrid,56840.0
+2023,Jeep,Wagoneer L Series III 4x4,77220.0
+2023,Jeep,Wagoneer L Series III,74220.0
+2023,Jeep,Wagoneer L Series II 4x4,71080.0
+2023,Jeep,Wagoneer L Series II,68080.0
+2023,Jeep,Wrangler Unlimited Sahara 4xe plug-in hybrid,56840.0
+2023,Jeep,Gladiator Mojave,50250.0
+2023,Jeep,Wagoneer L Series I 4x4,65490.0
+2023,Volkswagen,ID.4 GTX,57540.0
+2023,Volkswagen,Polo GTI Edition 25,25500.0
+2023,Volkswagen,ID. 2all,27610.0
+2023,Volkswagen,ID.3 GTX,55050.0
+2023,Volkswagen,ID.7 86kWh,43590.0
+2023,Volkswagen,ID.7 77kWh,38000.0
+2023,Volkswagen,Golf GTI 40th Anniversary Edition DSG,33050.0
+2023,Volkswagen,Atlas Cross Sport 3.6L V6 SE With Technology,40380.0
+2023,Volkswagen,Atlas Cross Sport 2.0T SE with Technology,38630.0
+2023,Volkswagen,ID.7 Pro,40000.0
+2023,Volkswagen,ID.4 Pro S Plus,51440.0
+2023,Volkswagen,Atlas Cross Sport 3.6L V6 SEL Premium R-Line,51620.0
+2023,Volkswagen,Atlas Cross Sport 3.6L V6 SEL R-Line Black,47930.0
+2023,Volkswagen,Atlas Cross Sport 2.0T SEL R-Line Black,46180.0
+2023,Volkswagen,Atlas Cross Sport 3.6L V6 SEL,45980.0
+2023,Volkswagen,ID.7,38000.0
+2023,Volkswagen,T-Roc Cabriolet Grey Edition,49000.0
+2023,Volkswagen,Amarok,30000.0
+2023,Volkswagen,Golf GTI 40th Anniversary Edition,33050.0
+2023,Volkswagen,Atlas V6 SEL R-Line Black,48090.0
+2023,Volkswagen,Atlas V6 SEL,46140.0
+2023,Volkswagen,Multivan Edition,65000.0
+2023,Volkswagen,ID.4 S,43990.0
+2023,Volkswagen,Tiguan S,26590.0
+2023,Volkswagen,Tiguan SE R-Line Black,33310.0
+2023,Volkswagen,Tiguan SEL R-Line,37680.0
+2023,Volkswagen,Tiguan,26590.0
+2023,Volkswagen,Passat,27970.0
+2023,Volkswagen,Jetta GLI,31340.0
+2023,Volkswagen,Jetta,20410.0
+2023,Maserati,GT2 Racecar,212000.0
+2023,Maserati,Grecale Folgore,80000.0
+2023,Maserati,GranTurismo Modena,130120.0
+2023,Maserati,GranTurismo Folgore,215000.0
+2023,Maserati,Quattroporte,104700.0
+2023,Maserati,Levante,87600.0
+2023,Maserati,Ghibli,82300.0
+2023,Maserati,Ghibli F Tributo Q4,120390.0
+2023,Maserati,Ghibli F Tributo,110890.0
+2023,Maserati,Grecale Trofeo,102500.0
+2023,Maserati,MC20 Cielo,240000.0
+2023,Maserati,Grecale Trofeo Trofeo,102500.0
+2023,Maserati,Ghibli S,80990.0
+2023,Maserati,Levante Trofeo 3.8L,169100.0
+2023,Maserati,Grecale Modena,72900.0
+2023,Maserati,Grecale GT,63500.0
+2023,Maserati,Quattroporte Modena Q4 3.0L,130300.0
+2023,Maserati,Ghibli S Q4,84100.0
+2023,Maserati,Ghibli GranSport,84690.0
+2023,Maserati,Quattroporte GT 3.0L,98000.0
+2023,Maserati,Quattroporte Trofeo 3.8L,151500.0
+2023,Maserati,Ghibli GT 3.0L,78200.0
+2023,Maserati,Grecale SUV,63500.0
+2023,Maserati,MC20,220000.0
+2023,Maserati,GranTurismo Sport,135000.0
+2023,Maserati,Levante Modena S,123200.0
+2023,Maserati,Levante GT,87600.0
+2023,Maserati,Levante Trofeo,161400.0
+2023,Maserati,Grecale,63500.0
+2023,Maserati,Ghibli Trofeo,118500.0
+2023,Maserati,Ghibli Modena Q4,91600.0
+2023,Maserati,Ghibli Modena S,82900.0
+2023,Maserati,Ghibli Modena,88900.0
+2023,Maserati,Quattroporte GT,104700.0
+2023,Maserati,Quattroporte Modena Q4,120200.0
+2023,Subaru,WRX Premium,33100.0
+2023,Subaru,Levorg STI Sport Performance Wagon,45000.0
+2023,Subaru,Ascent Onyx Edition Limited,46290.0
+2023,Subaru,Forester XT Edition,25400.0
+2023,Subaru,Rex,13000.0
+2023,Subaru,Forester 2.5X,24300.0
+2023,Subaru,Legacy Sport,33890.0
+2023,Subaru,BRZ Limited,31095.0
+2023,Subaru,Outback Onyx Edition,33490.0
+2023,Subaru,Legacy Premium,26695.0
+2023,Subaru,Legacy Limited,31440.0
+2023,Subaru,Legacy,24390.0
+2023,Subaru,WRX Sedan,30600.0
+2023,Subaru,BRZ,28590.0
+2023,Subaru,WRX GT Sedan,43390.0
+2023,Subaru,Ascent Onyx Edition,41290.0
+2023,Subaru,Forester STI Sport,36490.0
+2023,Subaru,WRX Limited CVT,39740.0
+2023,Subaru,WRX Premium CVT,35150.0
+2023,Subaru,Solterra Touring,51990.0
+2023,Subaru,Solterra Limited,48490.0
+2023,Subaru,WRX GT,43390.0
+2023,Subaru,Crosstrek Limited,29495.0
+2023,Dodge,Challenger Mopar Special Edition,55900.0
+2023,Dodge,Durango SRT 392 Premium,72715.0
+2023,Dodge,Durango SRT 392 Plus,72710.0
+2023,Dodge,Durango SRT,70290.0
+2023,Dodge,Challenger SRT Demon 170,96660.0
+2023,Dodge,Hornet RT Plus PHEV,44990.0
+2023,Dodge,Hornet R/T Plus PHEV,44990.0
+2023,Dodge,Durango SXT Plus,38490.0
+2023,Dodge,Charger Scat Pack Widebody,48740.0
+2023,Dodge,Charger Pursuit Police,43080.0
+2023,Dodge,Durango,51590.0
+2023,Dodge,Hornet GT Plus,34990.0
+2023,Dodge,Charger SRT Hellcat,77340.0
+2023,Dodge,Challenger,30540.0
+2023,Dodge,Charger Police AWD,42630.0
+2023,Dodge,Charger Police,43085.0
+2023,Dodge,Charger GT AWD,39270.0
+2023,Dodge,Hornet R/T PHEV,39990.0
+2023,Dodge,Hornet GT,29990.0
+2023,Dodge,Durango SRT Hellcat,91180.0
+2023,Dodge,Challenger SRT Hellcat Redeye,66040.0
+2023,Dodge,Hornet,29990.0
+2023,Dodge,Durango RT Plus,51790.0
+2023,Dodge,Charger SRT Hellcat Redeye Widebody,77340.0
+2023,Dodge,Durango R T Plus,50800.0
+2023,Dodge,Charger SRT Hellcat Widebody,77340.0
+2023,Dodge,Durango GT AWD,42590.0
+2023,Dodge,Durango Citadel,52490.0
+2023,Dodge,Charger RT,40740.0
+2023,Dodge,Charger R/T,42380.0
+2023,Dodge,Charger GT,35340.0
+2023,Dodge,Charger Scat Pack,48740.0
+2023,Mazda,BT 50 SP Pro,30000.0
+2023,Mazda,MX-5 Kizuna,35000.0
+2023,Mazda,CX-90 Hybrid Premium Plus,56950.0
+2023,Mazda,CX-90 Hybrid Premium,52900.0
+2023,Mazda,CX-90 Hybrid Preferred,47440.0
+2023,Mazda,2,17750.0
+2023,Mazda,CX-30 Turbo,31200.0
+2023,Mazda,MX-5 Miata Sport,28050.0
+2023,Mazda,3 Sedan 2.5 S Premium,29400.0
+2023,Mazda,3 Sedan 2.5 S Carbon Edition,27200.0
+2023,Mazda,3 Hatchback 2.5 S Premium,29150.0
+2023,Mazda,3 Hatchback 2.5 S Carbon Edition,28200.0
+2023,Mazda,CX-30 2.5 Turbo Premium Plus Package,35400.0
+2023,Mazda,MX-30 e-Skyactiv R-EV,35470.0
+2023,Mazda,MX-30,34470.0
+2023,Mazda,MX-5 Miata RF,35750.0
+2023,Mazda,6 20th Anniversary Edition,32450.0
+2023,Mazda,CX-80,44000.0
+2023,Mazda,3 Sedan 2.5 S Preferred,25550.0
+2023,Mazda,MX-5 Miata,28000.0
+2023,Mazda,3 Sedan,22550.0
+2023,Mazda,3 Hatchback,23550.0
+2023,Mazda,CX-5,26700.0
+2023,Mazda,CX-9,38750.0
+2023,Mazda,MX-5 Miata Club,31550.0
+2023,Mazda,Cx 50 2.5 Turbo Meridian Edition,43000.0
+2023,Mazda,CX-5 2.5 S Premium,33000.0
+2023,Mazda,CX-5 2.5 S Preferred,30190.0
+2023,Chrysler,Pacifica Pinnacle Plug-in Hybrid,59990.0
+2023,Chrysler,300 S,50970.0
+2023,Chrysler,300C,55000.0
+2023,Chrysler,Voyager,33000.0
+2023,Chrysler,Pacifica Hybrid,49990.0
+2023,Chrysler,Pacifica,37020.0
+2023,Chrysler,Pacifica Plug in Hybrid Touring L,52490.0
+2023,Chrysler,Pacifica Pinnacle AWD,53980.0
+2023,Chrysler,Pacifica Touring L AWD,43630.0
+2023,Chrysler,300 Touring AWD,36290.0
+2023,Chrysler,Pacifica Limited AWD,50650.0
+2023,Chrysler,Pacifica Plug-in Hybrid Pinnacle,59990.0
+2023,Chrysler,Pacifica Plug-in Hybrid Touring L,50490.0
+2023,Chrysler,Pacifica Touring L,40630.0
+2023,Chrysler,Pacifica Touring,37020.0
+2023,Chrysler,300 Touring,33540.0
+2023,Chrysler,300 Touring L AWD,38990.0
+2023,Chrysler,300 Touring L,36740.0
+2023,Chrysler,Pacifica Plug-in Hybrid Limited,54490.0
+2023,Chrysler,300S,50970.0
+2023,Chrysler,Pacifica Limited,47850.0
+2023,Chrysler,Pacifica Pinnacle,53980.0
+2023,Chrysler,Voyager LX,35490.0
+2023,Chrysler,Voyager L,29930.0
+2023,Chrysler,Voyager LXI,35240.0
+2023,Chrysler,Pacifica Hybrid Limited,48370.0
+2023,Chrysler,300,33540.0
+2023,Aston Martin,Vantage Coupe,143900.0
+2023,Aston Martin,V12 Vantage Convertible,348700.0
+2023,Aston Martin,DBR22,2160000.0
+2023,Aston Martin,DB11 Volante,233200.0
+2023,Aston Martin,DBS 770 Ultimate,330600.0
+2023,Aston Martin,Valkyrie Spider,3250000.0
+2023,Aston Martin,Vanquish,336480.0
+2023,Aston Martin,Vantage V12 Roadster,168180.0
+2023,Aston Martin,V12 Vantage Coupe,298200.0
+2023,Aston Martin,DBR22,2160000.0
+2023,Aston Martin,DBS Volante RWD,354700.0
+2023,Aston Martin,Vanquish Manual,460000.0
+2023,Aston Martin,Valkyrie AMR PRO,3500000.0
+2023,Aston Martin,V12 Vantage,298200.0
+2023,Aston Martin,DBX 707,207680.0
+2023,Aston Martin,R Pro,3500000.0
+2023,Aston Martin,DBS,330600.0
+2023,Aston Martin,Vantage Roadster F1 Edition,179800.0
+2023,Aston Martin,Vantage Roadster F1 Edition Convertible,189800.0
+2023,Aston Martin,Vantage F1 Edition,168500.0
+2023,Aston Martin,DB11 V12,232500.0
+2023,Aston Martin,DB11 V8,295600.0
+2023,Aston Martin,DBX V8,185900.0
+2023,Aston Martin,Vantage Coupe Manual,1280000.0
+2023,Aston Martin,Valhalla Coupe,1280000.0
+2023,Aston Martin,Dbx Coupe,188900.0
+2023,Aston Martin,DB11 V8 Coupe,217000.0
+2023,Aston Martin,DB11 V8 Volante,233200.0
+2023,Aston Martin,Vantage Roadster,155100.0
+2023,Aston Martin,DB11 AMR,265900.0
+2023,Aston Martin,Vantage Coupe,143900.0
+2023,Aston Martin,DBS Coupe,330600.0
+2023,Aston Martin,Valkyrie,3600000.0
+2023,Aston Martin,DBS Superleggera,366300.0
+2023,Aston Martin,DBS Volante,349800.0
+2023,Aston Martin,DBX SUV,185900.0
+2023,Ferrari,KC23,510000.0
+2023,Ferrari,SF90 Spider Mansory Edition,700000.0
+2023,Ferrari,SF90 Spider Limited Edition,700000.0
+2023,Ferrari,812 Competizione,603000.0
+2023,Ferrari,Roma,222620.0
+2023,Ferrari,812 Competizione A,672000.0
+2023,Ferrari,296 GTB Assetto Fiorano,380900.0
+2023,Ferrari,Monza SP2,1800000.0
+2023,Ferrari,812 GTS,431500.0
+2023,Ferrari,F8 Tributo,300000.0
+2023,Ferrari,296 GTB Coupe,361400.0
+2023,Ferrari,F8 Spider,322500.0
+2023,Ferrari,296 GTS,400000.0
+2023,Ferrari,812 Superfast,630000.0
+2023,Ferrari,Daytona SP3,2350000.0
+2023,Ferrari,296 GTB Assetto Fiorano Coupe,380900.0
+2023,Ferrari,296 GTB,351400.0
+2023,Ferrari,Purosangue SUV,326800.0
+2023,Ferrari,SF90 Stradale,557000.0
+2023,Ferrari,Purosangue,400000.0
+2023,Lamborghini,Huracan Sterrato Opera Unica,267000.0
+2023,Lamborghini,Urus Mansory Edition,230000.0
+2023,Lamborghini,Urus Performante,260670.0
+2023,Lamborghini,Aventador LP780-4 Ultimae Roadster,546840.0
+2023,Lamborghini,Aventador LP780-4 Ultimae,498250.0
+2023,Lamborghini,Huracan Evo RWD,230000.0
+2023,Lamborghini,Huracan Tecnica,239000.0
+2023,Lamborghini,Aventador,584000.0
+2023,Lamborghini,Huracan Sterrato,270000.0
+2023,Lamborghini,Huracan STO,387830.0
+2023,Lamborghini,Aventador LP 780-4 Ultimae Roadster,606840.0
+2023,Lamborghini,Countach,2800000.0
+2023,Lamborghini,Aventador LP 780 4 Ultimae Roadster,546840.0
+2023,Lamborghini,Huracan Tecnica RWD,239000.0
+2023,Lamborghini,Aventador LP740-4 S,417820.0
+2023,Lamborghini,Aventador SVJ Roadster,573960.0
+2023,Lamborghini,Urus Performance,270000.0
+2023,Lamborghini,Urus Pearl Capsule,246700.0
+2023,Lamborghini,Urus S,230000.0
+2023,Lamborghini,Urus Evo,269490.0
+2023,Lamborghini,Aventador Ultimae LP 780-4,518250.0
+2023,Lamborghini,Huracan Tecnica Coupe,239000.0
+2023,Lamborghini,Aventador Ultimate LP 780-4,538250.0
+2023,Lamborghini,Countach LPI 800-4,2640000.0
+2023,Lamborghini,Sian Roadster,3900000.0
+2023,Lamborghini,Countach LPI 800 4,2640000.0
+2023,Lamborghini,Huracan STO RWD,377838.0
+2023,Lamborghini,Aventador SVR Track-Only Edition,480000.0
+2023,Lamborghini,Huracan Evo,291200.0
+2023,Lamborghini,Urus,258000.0
+2023,GMC,Aion Hyper SSR,186000.0
+2023,GMC,Hummer EV SUV EV2x,94650.0
+2023,GMC,Sierra 3500HD,43400.0
+2023,GMC,Canyon Elevation 4WD,40200.0
+2023,GMC,Yukon XL Denali Ultimate,97250.0
+2023,GMC,Yukon Denali Ultimate,94550.0
+2023,GMC,Savana Passenger Van 3500 LT,43500.0
+2023,GMC,Savana Passenger Van 3500 LS,43500.0
+2023,GMC,Savana Passenger Van 2500 LT,42300.0
+2023,GMC,Savana Passenger Van 2500 LS,42300.0
+2023,GMC,Canyon Denali,51000.0
+2023,GMC,Yukon,57400.0
+2023,GMC,Sierra EV Denali,55600.0
+2023,GMC,Sierra 2500HD,42200.0
+2023,GMC,Hummer EV,108700.0
+2023,GMC,Yukon Denali,92350.0
+2023,GMC,Yukon XL,60100.0
+2023,GMC,Terrain,28400.0
+2023,GMC,Acadia,35300.0
+2023,GMC,Canyon AT4,43900.0
+2023,GMC,Canyon Elevation Standard,28800.0
+2023,GMC,Canyon AT4X,55500.0
+2023,GMC,Sierra 1500 AT4X,81700.0
+2023,Bentley,Continental GT Le Mans Collection,273300.0
+2023,Bentley,Bentayga EWB Azure,843190.0
+2023,Bentley,Flying Spur Mulliner W12,315200.0
+2023,Bentley,Flying Spur Mulliner V8,299200.0
+2023,Bentley,Flying Spur Azure,250300.0
+2023,Bentley,Flying Spur Hybrid Mulliner,297400.0
+2023,Bentley,Flying Spur Hybrid Azure,249100.0
+2023,Bentley,Flying Spur Hybrid S,240500.0
+2023,Bentley,Continental GT Mulliner Convertible,326200.0
+2023,Bentley,Continental GT Azure,311000.0
+2023,Bentley,Continental GT S Convertible,292500.0
+2023,Bentley,Continental GT V8,235600.0
+2023,Bentley,Bentayga Azure Extended Wheelbase,35750.0
+2023,Bentley,Bentayga V8 Extended Wheelbase,226900.0
+2023,Bentley,Bentayga Odyssean Edition,334000.0
+2023,Bentley,Continental GT Speed,288500.0
+2023,Bentley,Continental GT V8 Convertible,259200.0
+2023,Bentley,Bentayga Speed,264600.0
+2023,Bentley,Batur,1950000.0
+2023,Bentley,Flying Spur,241200.0
+2023,Bentley,Mulliner Batur,1950000.0
+2023,Bentley,Continental GT S,225000.0
+2023,Bentley,Bentayga Extended Wheelbase Range,160000.0
+2023,Bentley,Bentayga EWB,160000.0
+2023,Bentley,Bentayga Extended Wheelbase,263500.0
+2023,Bentley,Bentayga,236900.0
+2023,Bentley,Flying Spur Hybrid Odyssean Edition,408940.0
+2023,Bentley,Bentayga W12 Speed,280000.0
+2023,Bentley,Flying Spur Sedan,248900.0
+2023,Bentley,Bentayga V8,197300.0
+2023,Bentley,Flying Spur Mulliner,226000.0
+2023,Bentley,Bacalar Mulliner,2155280.0
+2023,Bentley,Flying Spur Speed,258700.0
+2023,Bentley,Continental Mulliner Convertible,252080.0
+2023,Bentley,Continental V8 Convertible,249600.0
+2023,Bentley,Continental V8 Coupe,212500.0
+2023,Bentley,Continental Mulliner,212500.0
+2023,Bentley,Bentayga Hybrid,197300.0
+2023,Bentley,Continental GT Speed Coupe,294900.0
+2023,Bentley,Bentayga S,231100.0
+2023,Bentley,Flying Spur V8,208600.0
+2023,Bentley,Flying Spur Hybrid,214800.0
+2023,Bentley,Continental GT Speed Convertible,317300.0
+2023,Bentley,Flying Spur W12,315200.0
+2023,Bugatti,W16 Mistral,5000000.0
+2023,Bugatti,W16,5000000.0
+2023,Bugatti,Chiron Super Sport 300 Plus,3900000.0
+2023,Bugatti,Chiron Edition Noire,2990000.0
+2023,Bugatti,Chiron,3400000.0
+2023,Bugatti,Chiron Super Sport,3850000.0
+2023,Rolls Royce,Spectre,400000.0
+2023,Rolls Royce,Cullinan Black Badge,382000.0
+2023,Rolls Royce,Ghost Black Badge,380500.0
+2023,Rolls Royce,Wraith Coupe,655000.0
+2023,Rolls Royce,Phantom Extended,605000.0
+2023,Rolls Royce,Ghost Extended,408000.0
+2023,Rolls Royce,Phantom,465000.0
+2023,Rolls Royce,Wraith,469700.0
+2023,Rolls Royce,Cullinan,348500.0
+2023,Rolls Royce,Ghost V12,345000.0
+2023,Rolls Royce,Dawn,438050.0
+2023,Rolls Royce,Ghost,341500.0
+2023,Mclaren,720S,528990.0
+2023,Mclaren,P1 3.8L V8,1525100.0
+2023,Mclaren,720S Performance Spider,428960.0
+2023,Mclaren,720S Spider,408800.0
+2023,Mclaren,P1 Spider,1200000.0
+2023,Mclaren,Formula F1,410000.0
+2023,Mclaren,720S Luxury,545700.0
+2023,Mclaren,600LT Spider,256500.0
+2023,Mclaren,570S Coupe,455700.0
+2023,Mclaren,720S Luxury Spider,329000.0
+2023,Mclaren,620R,319000.0
+2023,Mclaren,765LT Spider,398000.0
+2023,Mclaren,720S Coupe,399000.0
+2023,Mclaren,570GT,223950.0
+2023,Mclaren,720S Performance,582580.0
+2023,Mclaren,Artura,237500.0
+2023,Alfa Romeo,Stelvio Veloce,51520.0
+2023,Alfa Romeo,Stelvio Quadrifoglio 100th Anniversary,85670.0
+2023,Alfa Romeo,Giulia Quadrifoglio 100th Anniversary,81850.0
+2023,Alfa Romeo,Giulia Lusso AWD,48320.0
+2023,Alfa Romeo,Giulia Lusso,46320.0
+2023,Alfa Romeo,Sprint Q4 AWD,38000.0
+2023,Alfa Romeo,Tonale Ti PHEV Q4,44990.0
+2023,Alfa Romeo,Giulia Sprint AWD,45950.0
+2023,Alfa Romeo,Stelvio Ti AWD,87850.0
+2023,Alfa Romeo,Stelvio Estrema,51150.0
+2023,Alfa Romeo,Stelvio Sprint AWD,46200.0
+2023,Alfa Romeo,Giulia AWD,45950.0
+2023,Alfa Romeo,Giulia,46320.0
+2023,Alfa Romeo,Giulia Veloce AWD,47990.0
+2023,Alfa Romeo,Giulia Estrema AWD,47990.0
+2023,Alfa Romeo,Giulia Estrema,46320.0
+2023,Alfa Romeo,Giulia Ti AWD,47990.0
+2023,Alfa Romeo,Giulia Veloce,46320.0
+2023,Alfa Romeo,Giulia Sprint,44350.0
+2023,Alfa Romeo,Giulia Veloce Ti AWD,46090.0
+2023,Alfa Romeo,Stelvio AWD,48200.0
+2023,Alfa Romeo,Giulia Ti Sport AWD,45700.0
+2023,Alfa Romeo,Stelvio,51525.0
+2023,Alfa Romeo,Stelvio Quadrifoglio,85670.0
+2023,Alfa Romeo,Stelvio Ti,51150.0
+2023,Alfa Romeo,Stelvio Veloce Ti,51150.0
+2023,Alfa Romeo,Giulia Ti,46320.0
+2023,Lincoln,Corsair,38690.0
+2023,Lincoln,Navigator L Black Label,112300.0
+2023,Lincoln,Navigator L,83380.0
+2023,Lincoln,Navigator 4x2,79720.0
+2023,Lincoln,Nautilus,44820.0
+2023,Lincoln,Navigator L Standard 4x2,81380.0
+2023,Lincoln,Aviator Livery RWD,51080.0
+2023,Lincoln,Aviator Grand Touring,69360.0
+2023,Lincoln,Navigator Reserve 4WD,91740.0
+2023,Lincoln,SUV EV,72000.0
+2023,Lincoln,Nautilus Reserve AWD,52930.0
+2023,Lincoln,Navigator Standard 4x2,77710.0
+2023,Lincoln,Navigator L Standard,82720.0
+2023,Lincoln,Aviator Black Label Grand Touring,88900.0
+2023,Lincoln,Aviator Grand Touring Plug In Hybrid,70190.0
+2023,Lincoln,Navigator Standard AWD,80710.0
+2023,Lincoln,Aviator Grand Touring Plug-In Hybrid,69190.0
+2023,Lincoln,Corsair Standard AWD,39400.0
+2023,Lincoln,Aviator Black Label Grand Touring Plug-In Hybrid,89280.0
+2023,Lincoln,Navigator Reserve 4x4,94630.0
+2023,Lincoln,Nautilus Reserve,51040.0
+2023,Lincoln,Aviator Black Label,80725.0
+2023,Lincoln,Aviator Reserve,58670.0
+2023,Lincoln,Aviator Standard,53340.0
+2023,Lincoln,Navigator Reserve,91935.0
+2023,Lincoln,Navigator Black Label,109250.0
+2023,Lincoln,Corsair Grand Touring Plug In Hybrid,52420.0
+2023,Lincoln,Navigator Standard,79720.0
+2023,Lincoln,Nautilus Standard AWD,46000.0
+2023,Lincoln,Nautilus Standard,44825.0
+2023,Lincoln,Corsair Grand Touring Plug-In Hybrid,53380.0
+2023,Lincoln,Corsair Reserve AWD,45120.0
+2023,Lincoln,Corsair Reserve,43070.0
+2023,Lincoln,Corsair Standard,38690.0
+2023,Lincoln,Aviator Livery,51370.0
+2023,Volvo,EX30 Performance,47300.0
+2023,Volvo,C40 Recharge Performance 82 kWh,55330.0
+2023,Volvo,C40 Recharge Performance 78 kWh,59450.0
+2023,Volvo,XC40 Recharge SR FWD,53670.0
+2023,Volvo,EX90 Performance,80000.0
+2023,Volvo,XC40 Recharge SR RWD,49780.0
+2023,Volvo,XC90 Recharge,71900.0
+2023,Volvo,S60 B5 AWD Core Dark Theme,43600.0
+2023,Volvo,S60 B5 AWD Core Black Edition,45250.0
+2023,Volvo,S60 B5 AWD Plus Dark Theme,46300.0
+2023,Volvo,S60 B5 AWD Plus Black Edition,47950.0
+2023,Volvo,S60 B5 AWD Ultimate Dark Theme,49050.0
+2023,Volvo,S60 B5 AWD Ultimate Bright Theme,49050.0
+2023,Volvo,S60 B5 AWD Ultimate Black Edition,50300.0
+2023,Volvo,S60 Recharge T8 Core Plug-In Hybrid,51250.0
+2023,Volvo,XC60 Recharge,57200.0
+2023,Volvo,V90 Cross Country,58450.0
+2023,Volvo,V60 Cross Country,48800.0
+2023,Volvo,S60,41300.0
+2023,Volvo,XC90 B5 Core,56000.0
+2023,Volvo,EX90 Pure Electric,80000.0
+2023,Volvo,C40 Recharge Pure Electric Twin Plus P8 eAWD,56850.0
+2023,Volvo,XC40 Recharge LR,55330.0
+2023,Volvo,XC40,46500.0
+2023,Volvo,EX90 LR,113940.0
+2023,MINI,Cooper S Countryman,31900.0
+2023,MINI,Cooper Hardtop,23400.0
+2023,MINI,John Cooper Works Countryman,41500.0
+2023,MINI,Cooper Countryman Plug-in Hybrid,41500.0
+2023,MINI,John Cooper Works Clubman,39500.0
+2023,MINI,Cooper Clubman,29900.0
+2023,MINI,Countryman,30000.0
+2023,MINI,Countryman Cooper SE ALL4 Untamed Edition,42500.0
+2023,MINI,Cooper Convertible,28400.0
+2023,MINI,Hardtop John Cooper Works,35900.0
+2023,MINI,Cooper Countryman ALL4,31600.0
+2023,MINI,John Cooper Works Classic Convertible,38900.0
+2023,MINI,Cooper S Countryman ALL4,37500.0
+2023,MINI,Cooper S Hardtop 2-Door,26900.0
+2023,MINI,Cooper Hardtop 4-Door,24400.0
+2023,MINI,Cooper S Classic Hardtop 4-Door,27900.0
+2023,MINI,Cooper S Hardtop 4-Door,27900.0
+2023,MINI,Cooper Hardtop 2-Door,23400.0
+2023,MINI,Cooper S Classic Hardtop 2-Door,26900.0
+2023,MINI,Cooper Classic Hardtop 4-Door,24400.0
+2023,MINI,Cooper Electric Hardtop,29900.0
+2023,MINI,Cooper Hardtop Cooper Classic 2 Door,23400.0
+2023,MINI,Cooper S Classic Countryman ALL4,33900.0
+2023,MINI,Clubman Cooper S Classic ALL4 Clubman,32900.0
+2023,MINI,Cooper SE Hardtop,33900.0
+2023,MINI,Cooper SE Signature Hardtop,29900.0
+2023,Acura,MDX 3.5L with Technology Package SH-AWD,56450.0
+2023,Acura,RDX A-Spec Package SH-AWD,49400.0
+2023,Acura,TLX Type S Performance Tire,56350.0
+2023,Acura,ZDX Type S,64500.0
+2023,Acura,ILX Premium & A-Spec Package,31300.0
+2023,Acura,MDX 3.5L Technology,53750.0
+2023,Acura,TLX Advance Package,51050.0
+2023,Acura,MDX,49050.0
+2023,Acura,TLX Type S PMC Edition,66990.0
+2023,Acura,MDX SH-AWD With Technology Package,55950.0
+2023,Acura,RDX PMC Edition,54300.0
+2023,Acura,Integra Manual,35800.0
+2023,Acura,Integra A-Spec Tech Package,36300.0
+2023,Acura,Integra A-Spec Package,33300.0
+2023,Acura,TLX 2.0T,39850.0
+2023,Acura,TLX Technology Package,43850.0
+2023,Acura,TLX A-Spec Package,46600.0
+2023,Acura,Integra Base,31300.0
+2023,Acura,MDX 3.5L SH-AWD,51250.0
+2023,Acura,RDX Technology Package AWD,45150.0
+2023,Acura,RDX SH-AWD,42500.0
+2023,Acura,MDX Type S with Advance Package,73200.0
+2023,Acura,MDX ILX,33200.0
+2023,Acura,Nsx Sh-Awd,170500.0
+2023,Acura,MDX 3.5L with Technology Package,54250.0
+2023,Acura,MDX 3.5L with A-Spec Package,59950.0
+2023,Acura,MDX Type S,67850.0
+2023,Acura,RDX A-Spec Package,47200.0
+2023,Acura,MDX 3.5L,49050.0
+2023,Acura,RDX A-Spec Advance Package,53550.0
+2023,Fiat,500e,52500.0
+2023,Fiat,E-Scudo,37990.0
+2023,Fiat,600e,39000.0
+2023,Fiat,Topolino,17500.0
+2023,Fiat,Abarth 500e,36000.0
+2023,Fiat,500 Icon,22440.0
+2023,Fiat,500X,28300.0
+2023,Fiat,500X Yacht Club Capri,29610.0
+2023,Fiat,500X Pop,28900.0
+2023,Fiat,500X Trekking,29400.0
+2023,Fiat,500X Sport,31950.0
+2023,Fiat,500x Trekking Plus,32860.0
+2023,Fiat,Trekking Plus,32860.0
+2023,Genesis,GV60 Performance AWD,67900.0
+2023,Genesis,GV60 AWD,58900.0
+2023,Genesis,GV60 RWD,59400.0
+2023,Genesis,G90 3.5T,88400.0
+2023,Genesis,G70,39400.0
+2023,Genesis,GV80 3.5T Advanced Plus,70850.0
+2023,Genesis,GV80 3.5T Advanced Plus AWD,70850.0
+2023,Genesis,G90 3.5T e-SC,98700.0
+2023,Genesis,G80,50000.0
+2023,Genesis,GV80,55800.0
+2023,Genesis,GV70,43150.0
+2023,Genesis,GV60 Performance,68290.0
+2023,Genesis,GV60 Advanced,59290.0
+2023,Genesis,G80 2.5T AWD,51400.0
+2023,Genesis,G70 3.3T AWD,46750.0
+2023,Genesis,G70 2.0T AWD,41250.0
+2023,Genesis,GV80 Prestige Signature,78200.0
+2023,Genesis,GV60 Sport,63390.0
+2023,Genesis,GV60 Sports Plus,80650.0
+2023,Genesis,GV60 Premium,60680.0
+2023,Genesis,G90 5.0L Ultimate AWD,83200.0
+2023,Genesis,GV70 2.5T AWD,41500.0
+2023,Genesis,GV80 2.5T AWD,55550.0
+2023,Genesis,G90 3.3T Premium,75950.0
+2023,Genesis,GV70 2.5T,43150.0
+2023,Genesis,Electrified G80,79820.0
+2023,Genesis,GV70 Sport,43990.0
+2023,Genesis,GV80 2.5T,55800.0
+2023,Genesis,GV80 3.5T,62950.0
+2023,Genesis,GV80 3.5T Prestige Signature,77700.0
+2023,Genesis,G90 5.0L Ultimate,79700.0
+2023,Genesis,G80 2.5T,50000.0
+2023,Genesis,G90,88400.0
+2023,Genesis,Electrified GV70,65000.0
+2023,Genesis,G70 3.3T,44900.0
+2023,Buick,Electra E4 GS Crossover,36200.0
+2023,Buick,Electra E4,26490.0
+2023,Buick,Electra E5 Avenir,40700.0
+2023,Buick,Encore Preferred,26100.0
+2023,Buick,Envista Avenir,25000.0
+2023,Buick,Electra E5,30500.0
+2023,Buick,LaCrosse,23490.0
+2023,Buick,Envista,21850.0
+2023,Buick,Encore GX Preferred,25900.0
+2023,Buick,Envision,31700.0
+2023,Buick,Enclave,44800.0
+2023,Buick,Encore GX,25900.0
+2023,Buick,Envision Preferred AWD,35350.0
+2023,Buick,Encore GX Essence AWD,30600.0
+2023,Buick,Encore GX Select AWD,27800.0
+2023,Buick,Enclave Avenir,57470.0
+2023,Buick,Encore GX Select,27300.0
+2023,Buick,Encore GX Essence,30500.0
+2023,Buick,Enclave Premium AWD,52000.0
+2023,Buick,Envision Essence,37500.0
+2023,Buick,Enclave Essence AWD,45000.0
+2023,Buick,Envision Preferred,33400.0
+2023,Buick,Enclave Avenir AWD,57300.0
+2023,Buick,Encore GX Preferred AWD,26400.0
+2023,Buick,Envision Essence AWD,37600.0
+2023,Buick,Envision Avenir,45660.0
+2023,Buick,Encore Preferred AWD,26820.0
+2023,Buick,Envision Avenir AWD,45760.0
+2023,Buick,Enclave Essence,44800.0
+2023,Buick,Enclave Premium,52035.0
+2023,Buick,Enclave Preferred,58100.0
+2023,Tesla,Model S LR,88500.0
+2023,Tesla,Model X LR Plus,98500.0
+2023,Tesla,Model 3 LR AWD,47240.0
+2023,Tesla,Model 3 LR RWD,58430.0
+2023,Tesla,Model Y SR Plus RWD 60kWh,60000.0
+2023,Tesla,Cybertruck,39900.0
+2023,Tesla,Model S,94990.0
+2023,Tesla,Model 3,43990.0
+2023,Tesla,Semi Long Range,195200.0
+2023,Tesla,Cybertruck Single Motor RWD,39900.0
+2023,Tesla,Model 3 Long Range AWD,58990.0
+2023,Tesla,Model X Standard Range plus AWD,99990.0
+2023,Tesla,Model 3 Performance AWD,60990.0
+2023,Tesla,Model X Long Range AWD,106990.0
+2023,Tesla,Cybertruck Tri Motor AWD,69900.0
+2023,Tesla,Cybertruck Dual Motor AWD,49900.0
+2023,Tesla,Model Y Standard Range,43990.0
+2023,Tesla,Model X,109990.0
+2023,Tesla,Model S Plaid,114990.0
+2023,Tesla,Model S Long Range,96990.0
+2023,Tesla,Model 3 Performance,53990.0
+2023,Tesla,Model Y,60000.0
+2023,Tesla,Model 3 Standard Plus,44990.0
+2023,Tesla,Model 3 Standard Plus RWD,60900.0
+2023,Tesla,Model Y Long Range,52990.0
+2023,Tesla,Model X Performance,107990.0
+2023,Tesla,Model S Performance,104990.0
+2023,Tesla,S Performance,104990.0
+2023,Tesla,X Performance,120990.0
+2023,Tesla,Model 3 Long Range,51990.0
+2023,Tesla,Model X Plaid,119990.0
+2023,Tesla,Model X Long Range,107990.0
